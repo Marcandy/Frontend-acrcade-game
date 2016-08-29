@@ -7,6 +7,6 @@ This is a project for the Udacity Front-End Web Dev Nanodgree. The goal is to cr
 
 ##How to Play:
 
-Open index.html in your browser to start playing.
+Open index.html in your browser or [here](https://marcandy.github.io/frontend-arcade-game/) to start playing 
 
 Use the arrow keys to move the player across the board. Avoid colliding with the bugs. Reach the water to win.
