@@ -50,7 +50,7 @@ var Player = function() {
 
     //player image
     this.sprite = 'images/char-boy.png';
-}
+};
 
 // alert when player reach water
 Player.prototype.update = function() {
@@ -91,7 +91,7 @@ Player.prototype.handleInput = function (keyUp) {
 Player.prototype.resetPlayer = function () {
     this.x = INITIAL_PLAYER_X;
     this.y = INITIAL_PLAYER_Y;
-}
+};
 
 // Now instantiate your objects.
 // Place all enemy objects in an array called allEnemies
