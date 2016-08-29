@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+header {
+    width: 100%;
+    height: 110px;
+    background-color: #EDE574;
+    padding: 10p
+}
+
+.head {
+    width: 100%;
+    margin: auto;
+
+}
+
+h3 {
+margin: auto;
+
+}
